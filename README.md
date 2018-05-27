@@ -41,7 +41,10 @@ O trabalho deve fazer uso de, no mínimo, um dos items a seguir:
 
 2. Micro-servo (imagem)
 
-3. Fantoche de papelão (imagem)
+3. Fantoche de papelão
+
+![ee433490-ad6e-4647-acb3-7314e7844af0](https://user-images.githubusercontent.com/39192437/40589571-e8c8babe-61c5-11e8-8341-d9afd49817e9.jpg)
+
 
 4. Fios de Tecido (imagem)
 
