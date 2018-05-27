@@ -3,7 +3,7 @@
 
 #### Integrantes do projeto:
 - Arthur Ricardo de Paula Oliveira - 31824617
-- Beatriz - 31811884
+- Beatriz Marmo Scaglione - 31811884
 - Lucas Morita da Nova - 31826199
 - Pedro Savoy Prieto - 31831583
 
