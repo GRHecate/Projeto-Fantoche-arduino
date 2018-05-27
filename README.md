@@ -3,9 +3,9 @@
 
 #### Integrantes do projeto:
 - Arthur Ricardo de Paula Oliveira - 31824617
-- (Bia)
+- Beatriz 
 - Lucas Morita da Nova - 31826199
-- (Savoy)
+- Pedro Savoy Prieto - 31831583
 
 ## Objetivo do Trabalho
 
@@ -37,18 +37,27 @@ O trabalho deve fazer uso de, no mínimo, um dos items a seguir:
 
 ## Equipamentos utilizados no projeto
 
-1. Arduino (imagem)
+1. Arduino 
 
-2. Micro-servo (imagem)
+![img_0570](https://user-images.githubusercontent.com/39192437/40589811-bdc8b03a-61ca-11e8-8885-0c1adf4133ef.jpeg)
+
+2. Micro-servo 
+
+![img_0566](https://user-images.githubusercontent.com/39192437/40589806-a7dee83e-61ca-11e8-8509-a113fdac1d8b.jpeg)
+
 
 3. Fantoche de papelão
 
 ![ee433490-ad6e-4647-acb3-7314e7844af0](https://user-images.githubusercontent.com/39192437/40589571-e8c8babe-61c5-11e8-8341-d9afd49817e9.jpg)
 
 
-4. Fios de Tecido (imagem)
+4. Fios de Tecido 
 
-5. Base de papelão (imagem)
+![img_0569](https://user-images.githubusercontent.com/39192437/40589829-2d248634-61cb-11e8-9bf9-e0a74acd7de8.jpeg)
+
+5. Base de papelão 
+
+![img_0569](https://user-images.githubusercontent.com/39192437/40589801-6f66a3ac-61ca-11e8-9e57-4936ba7b1229.jpeg)
 
 ## Construção
 
