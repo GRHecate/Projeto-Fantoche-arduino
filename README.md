@@ -4,7 +4,7 @@
 #### Integrantes do projeto:
 - Arthur Ricardo de Paula Oliveira - 31824617
 - (Bia)
-- (Lucas)
+- Lucas Morita da Nova - 31826199
 - (Savoy)
 
 ## Objetivo do Trabalho
@@ -13,7 +13,7 @@ Desenvolver um projeto utilizando a plataforma [Arduino](https://www.arduino.cc/
 
 ### Requerimentos Básicos
 
-O trabalho deve fazer uso de , no mínimo, um dos items a seguir:
+O trabalho deve fazer uso de, no mínimo, um dos items a seguir:
 
 - [x] Utilização de servomotor
 
@@ -43,7 +43,7 @@ O trabalho deve fazer uso de , no mínimo, um dos items a seguir:
 
 3. Fantoche de papelão (imagem)
 
-4. Fios de Nailon (imagem)
+4. Fios de Tecido (imagem)
 
 5. Base de papelão (imagem)
 
@@ -51,11 +51,11 @@ O trabalho deve fazer uso de , no mínimo, um dos items a seguir:
 
 Nesse projeto tivemos o intuito de utilizar 2 servo motores para mexer os membros de nosso fantoche.
 Para isso usamos uma base de papelao, onde foi fixado o fantoche, o arduino e os servos.
-Na construção do fantoche optamos por utilizar um material leve como papelão para que os servos conseguissem mexer os membros com mais facilidade, os membros (braços e pernas) foram fixados com bailarinas e para conectar os membros do fantoche com os servo motores, utilizamos fios de nailon. 
+Na construção do fantoche optamos por utilizar um material leve como papelão para que os servos conseguissem mexer os membros com mais facilidade, os membros (braços e pernas) foram fixados com bailarinas e para conectar os membros do fantoche com os servo motores, utilizamos fios de tecido. 
 
 ## Funcionamento
 
-O projeto funciona da seguinte maneira: Nosso codigo foi projetado para fazer com que os servos motores girem para um angulo desejado, dessa maneira movimentando os braços do fantoches, estes que estão conectados por fio de nailon. Assim simulando uma dança.
+O projeto funciona da seguinte maneira: Nosso coódigo foi projetado para fazer com que os servos motores girem para um angulo desejado, usando potenciômetros, dessa maneira movimentando os braços do fantoches, estes que estão conectados por fios de tecido. Assim simulando uma dança.
 
 
 
