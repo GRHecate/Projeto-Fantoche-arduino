@@ -1,0 +1,31 @@
+#include <Servo.h>
+
+Servo servo1;
+Servo servo2;
+
+int potpin1 = A1;  // potenciometro 1 no pino A1
+int potpin2 = A2;  // potenciometro 2 no pino A2
+int val1,val2;     // variáveis para analog read de cada potenciometro
+
+void setup() {
+  servo1.attach(5); // um dos servos no pino 9
+  servo2.attach(9); // outro no pino 11
+  servo1.write(45); // posiciona os dois servos
+  servo2.write(45); // num ângulo de 45º
+}
+
+void loop() {
+
+  val1 = analogRead(potpin1); // le o valor analógico do potenciometro 1
+  val2 = analogRead(potpin2); // le o valor analogico do potenciometro 2
+  
+  val1 = map(val1,0,1023,0,255); // converte o valor analogico para 
+  val2 = map(val2,0,1023,10,255); // 0-255 para o duty cycle do servo
+  
+  analogWrite(8,val1); //acende o led 1
+  analogWrite(13,val2); //acende o led 2
+  
+  servo1.write(val1); //posiciona o servo na posição val1 de acordo com o potenciometro1
+  servo2.write(val2); // posiciona o servo na posição do val 2 de acordo com o potenciometro 2
+  delay(15);
+}
